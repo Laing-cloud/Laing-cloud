@@ -10,7 +10,7 @@
 </a>    
 <br/>
 
-:computer: [AWS waf association with api gateway](https://mechanicalrock.github.io/2019/09/26/aws-waf-association-with-api-gateway.html)  
+<br/>:computer: [AWS waf association with api gateway](https://mechanicalrock.github.io/2019/09/26/aws-waf-association-with-api-gateway.html)  
 :snowflake: [Snowflake what the cluster](https://mechanicalrock.github.io/2019/08/26/what-the-cluster.html)  
 :chart_with_upwards_trend: [pwa cache me if you can](https://mechanicalrock.github.io/2020/02/25/pwa-cache-me-if-you-can.html)  
 :bridge_at_night: [React conf 2020](https://mechanicalrock.github.io/2020/03/02/react-conf-2020.html)  
