@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/natalie-laing-652a9131/">
   <img align="left" alt="Laing LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>    
+<br/>
 
 :computer: [AWS waf association with api gateway](https://mechanicalrock.github.io/2019/09/26/aws-waf-association-with-api-gateway.html)  
 :snowflake: [Snowflake what the cluster](https://mechanicalrock.github.io/2019/08/26/what-the-cluster.html)  
